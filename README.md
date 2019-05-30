@@ -1,1 +1,1 @@
-# hangmam
+# hangman
